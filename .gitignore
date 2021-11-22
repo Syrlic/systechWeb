@@ -1,0 +1,15 @@
+.idea
+resources/
+.allure/
+allure-results/
+build/
+bin/
+out/
+logs/
+target/
+.classpath
+.project
+.settings/org.eclipse.buildship.core.prefs
+.vscode
+.todo
+*.properties
